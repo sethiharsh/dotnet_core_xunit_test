@@ -1,0 +1,42 @@
+{
+ "D:\\Code\\Github\\CoverletCheck\\CoverletCheckTests\\bin\\Debug\\netcoreapp2.0\\CoverletCheck.dll": {
+  "D:\\Code\\Github\\CoverletCheck\\CoverletCheck\\Program.cs": {
+   "CoverletCheck.Program": {
+    "System.Void CoverletCheck.Program::Main(System.String[])": {
+     "Lines": {
+      "8": {
+       "Hits": 0
+      },
+      "9": {
+       "Hits": 0
+      },
+      "10": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    }
+   }
+  },
+  "D:\\Code\\Github\\CoverletCheck\\CoverletCheck\\TruthTeller.cs": {
+   "CoverletCheck.TruthTeller": {
+    "System.Boolean CoverletCheck.TruthTeller::TellTruth()": {
+     "Lines": {
+      "6": {
+       "Hits": 1
+      },
+      "7": {
+       "Hits": 1
+      },
+      "8": {
+       "Hits": 1
+      }
+     },
+     "Branches": {
+     }
+    }
+   }
+  }
+ }
+}

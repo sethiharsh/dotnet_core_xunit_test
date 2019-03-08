@@ -1,0 +1,17 @@
+/home/ansible/CoverletCheck/CoverletCheckTests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/ansible/CoverletCheck/CoverletCheckTests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/home/ansible/CoverletCheck/CoverletCheckTests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/home/ansible/CoverletCheck/CoverletCheckTests/bin/Debug/netcoreapp2.0/CoverletCheckTests.deps.json
+/home/ansible/CoverletCheck/CoverletCheckTests/bin/Debug/netcoreapp2.0/CoverletCheckTests.runtimeconfig.json
+/home/ansible/CoverletCheck/CoverletCheckTests/bin/Debug/netcoreapp2.0/CoverletCheckTests.runtimeconfig.dev.json
+/home/ansible/CoverletCheck/CoverletCheckTests/bin/Debug/netcoreapp2.0/CoverletCheckTests.dll
+/home/ansible/CoverletCheck/CoverletCheckTests/bin/Debug/netcoreapp2.0/CoverletCheckTests.pdb
+/home/ansible/CoverletCheck/CoverletCheckTests/bin/Debug/netcoreapp2.0/CoverletCheck.dll
+/home/ansible/CoverletCheck/CoverletCheckTests/bin/Debug/netcoreapp2.0/CoverletCheck.pdb
+/home/ansible/CoverletCheck/CoverletCheckTests/obj/Debug/netcoreapp2.0/CoverletCheckTests.csprojAssemblyReference.cache
+/home/ansible/CoverletCheck/CoverletCheckTests/obj/Debug/netcoreapp2.0/CoverletCheckTests.csproj.CoreCompileInputs.cache
+/home/ansible/CoverletCheck/CoverletCheckTests/obj/Debug/netcoreapp2.0/CoverletCheckTests.AssemblyInfoInputs.cache
+/home/ansible/CoverletCheck/CoverletCheckTests/obj/Debug/netcoreapp2.0/CoverletCheckTests.AssemblyInfo.cs
+/home/ansible/CoverletCheck/CoverletCheckTests/obj/Debug/netcoreapp2.0/CoverletCheckTests.csproj.CopyComplete
+/home/ansible/CoverletCheck/CoverletCheckTests/obj/Debug/netcoreapp2.0/CoverletCheckTests.dll
+/home/ansible/CoverletCheck/CoverletCheckTests/obj/Debug/netcoreapp2.0/CoverletCheckTests.pdb

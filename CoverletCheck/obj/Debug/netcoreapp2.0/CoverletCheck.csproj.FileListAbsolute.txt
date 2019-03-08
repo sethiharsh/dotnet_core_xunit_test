@@ -1,0 +1,11 @@
+/home/ansible/CoverletCheck/CoverletCheck/bin/Debug/netcoreapp2.0/CoverletCheck.deps.json
+/home/ansible/CoverletCheck/CoverletCheck/bin/Debug/netcoreapp2.0/CoverletCheck.runtimeconfig.json
+/home/ansible/CoverletCheck/CoverletCheck/bin/Debug/netcoreapp2.0/CoverletCheck.runtimeconfig.dev.json
+/home/ansible/CoverletCheck/CoverletCheck/bin/Debug/netcoreapp2.0/CoverletCheck.dll
+/home/ansible/CoverletCheck/CoverletCheck/bin/Debug/netcoreapp2.0/CoverletCheck.pdb
+/home/ansible/CoverletCheck/CoverletCheck/obj/Debug/netcoreapp2.0/CoverletCheck.csprojAssemblyReference.cache
+/home/ansible/CoverletCheck/CoverletCheck/obj/Debug/netcoreapp2.0/CoverletCheck.csproj.CoreCompileInputs.cache
+/home/ansible/CoverletCheck/CoverletCheck/obj/Debug/netcoreapp2.0/CoverletCheck.AssemblyInfoInputs.cache
+/home/ansible/CoverletCheck/CoverletCheck/obj/Debug/netcoreapp2.0/CoverletCheck.AssemblyInfo.cs
+/home/ansible/CoverletCheck/CoverletCheck/obj/Debug/netcoreapp2.0/CoverletCheck.dll
+/home/ansible/CoverletCheck/CoverletCheck/obj/Debug/netcoreapp2.0/CoverletCheck.pdb
